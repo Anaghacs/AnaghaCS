@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently self learning Full Stack Development<br>👯 I'm successfully completed my Post Graduation - MCA<br>🌱 I’m currently learning frond end development<br>💬 Ask me about Python full stack<br>
+🔭I’m currently self learning Full Stack Development<br>👯 I'm successfully completed my Post Graduation - MCA<br>🌱 <br>💬 Ask me about Python full stack<br>
 
 
 ## 🌐 Socials:
@@ -15,14 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnaghaCS&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnaghaCS&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnaghaCS&icon=6&color=0)](https://visitcount.itsvg.in)
