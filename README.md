@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently learning Full Stack Development<br>👯 I’m looking to collaborate on software development<br>🌱 I’m currently learning frond end development<br>💬 Ask me about Python full stack<br>⚡ Fun fact - I am lazy but smart
+🔭I’m currently self learning Full Stack Development<br>👯 I'm successfully completed my Post Graduation - MCA<br>🌱 I’m currently learning frond end development<br>💬 Ask me about Python full stack<br>
 
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnaghaCS&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Anaghacs/AnaghaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
