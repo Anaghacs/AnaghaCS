@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently self learning Full Stack Development<br>👯 I'm successfully completed my Post Graduation - MCA<br>🌱 <br>💬 Ask me about Python full stack<br>
+🔭I’m currently self learning Full Stack Development<br>👯 I'm successfully completed my Post Graduation - MCA <br>💬 Ask me about Python full stack<br>
 
 
 ## 🌐 Socials:
